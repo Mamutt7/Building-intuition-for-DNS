@@ -47,6 +47,7 @@ Local DNS Cache Exercise
 Here you can see that after flushing the DNS the new private IP address (8.8.8.8) now appears instead of the initial port forwarded 10.0.0.4 we had assigned.
 
 CNAME Record Exercise
+
 13.	Go back to DC-1 and create a CNAME record that points the host “search” to www.google.com
 
 ![image](https://github.com/user-attachments/assets/1dc60c25-e8ab-426f-a912-dc93a6302de4)
